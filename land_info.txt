@@ -1,0 +1,3 @@
+land_id,city,direction,ana,price,availability
+1,Kathmandu,North,10,500,Available
+2,Lalitpur,East,15,600,Available
